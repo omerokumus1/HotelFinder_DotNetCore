@@ -1,0 +1,12 @@
+/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Entities/bin/Debug/net7.0/HotelFinder.Entities.deps.json
+/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Entities/bin/Debug/net7.0/HotelFinder.Entities.dll
+/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Entities/bin/Debug/net7.0/HotelFinder.Entities.pdb
+/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Entities/obj/Debug/net7.0/HotelFinder.Entities.csproj.AssemblyReference.cache
+/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Entities/obj/Debug/net7.0/HotelFinder.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Entities/obj/Debug/net7.0/HotelFinder.Entities.AssemblyInfoInputs.cache
+/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Entities/obj/Debug/net7.0/HotelFinder.Entities.AssemblyInfo.cs
+/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Entities/obj/Debug/net7.0/HotelFinder.Entities.csproj.CoreCompileInputs.cache
+/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Entities/obj/Debug/net7.0/HotelFinder.Entities.dll
+/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Entities/obj/Debug/net7.0/refint/HotelFinder.Entities.dll
+/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Entities/obj/Debug/net7.0/HotelFinder.Entities.pdb
+/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Entities/obj/Debug/net7.0/ref/HotelFinder.Entities.dll
