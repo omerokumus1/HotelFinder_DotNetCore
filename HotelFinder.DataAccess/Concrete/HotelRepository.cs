@@ -6,10 +6,10 @@ namespace HotelFinder.DataAccess.Concrete
 {
 	public class HotelRepository: IHotelRepository
 	{
-        private readonly HotelDbContext dbContext = new HotelDbContext();
+        private readonly HotelDbContext dbContext = new();
 		public HotelRepository()
-		{
-		}
+        {
+        }
 
         public Hotel AddHotel(Hotel hotel)
         {
