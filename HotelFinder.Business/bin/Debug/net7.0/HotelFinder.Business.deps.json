@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "HotelFinder.Business/1.0.0": {
+        "dependencies": {
+          "HotelFinder.DataAccess": "1.0.0",
+          "HotelFinder.Entities": "1.0.0"
+        },
+        "runtime": {
+          "HotelFinder.Business.dll": {}
+        }
+      },
+      "HotelFinder.DataAccess/1.0.0": {
+        "dependencies": {
+          "HotelFinder.Entities": "1.0.0"
+        },
+        "runtime": {
+          "HotelFinder.DataAccess.dll": {}
+        }
+      },
+      "HotelFinder.Entities/1.0.0": {
+        "runtime": {
+          "HotelFinder.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HotelFinder.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HotelFinder.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HotelFinder.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

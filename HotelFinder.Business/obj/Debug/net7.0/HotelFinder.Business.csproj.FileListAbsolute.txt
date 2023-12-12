@@ -1,0 +1,17 @@
+/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Business/bin/Debug/net7.0/HotelFinder.Business.deps.json
+/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Business/bin/Debug/net7.0/HotelFinder.Business.dll
+/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Business/bin/Debug/net7.0/HotelFinder.Business.pdb
+/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Business/bin/Debug/net7.0/HotelFinder.DataAccess.dll
+/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Business/bin/Debug/net7.0/HotelFinder.Entities.dll
+/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Business/bin/Debug/net7.0/HotelFinder.DataAccess.pdb
+/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Business/bin/Debug/net7.0/HotelFinder.Entities.pdb
+/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Business/obj/Debug/net7.0/HotelFinder.Business.csproj.AssemblyReference.cache
+/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Business/obj/Debug/net7.0/HotelFinder.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Business/obj/Debug/net7.0/HotelFinder.Business.AssemblyInfoInputs.cache
+/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Business/obj/Debug/net7.0/HotelFinder.Business.AssemblyInfo.cs
+/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Business/obj/Debug/net7.0/HotelFinder.Business.csproj.CoreCompileInputs.cache
+/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Business/obj/Debug/net7.0/HotelFinder.Business.csproj.CopyComplete
+/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Business/obj/Debug/net7.0/HotelFinder.Business.dll
+/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Business/obj/Debug/net7.0/refint/HotelFinder.Business.dll
+/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Business/obj/Debug/net7.0/HotelFinder.Business.pdb
+/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Business/obj/Debug/net7.0/ref/HotelFinder.Business.dll

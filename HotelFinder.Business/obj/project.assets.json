@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "HotelFinder.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "HotelFinder.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/HotelFinder.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HotelFinder.DataAccess.dll": {}
+        }
+      },
+      "HotelFinder.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/HotelFinder.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HotelFinder.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HotelFinder.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../HotelFinder.DataAccess/HotelFinder.DataAccess.csproj",
+      "msbuildProject": "../HotelFinder.DataAccess/HotelFinder.DataAccess.csproj"
+    },
+    "HotelFinder.Entities/1.0.0": {
+      "type": "project",
+      "path": "../HotelFinder.Entities/HotelFinder.Entities.csproj",
+      "msbuildProject": "../HotelFinder.Entities/HotelFinder.Entities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "HotelFinder.DataAccess >= 1.0.0",
+      "HotelFinder.Entities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/omerokumus/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Business/HotelFinder.Business.csproj",
+      "projectName": "HotelFinder.Business",
+      "projectPath": "/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Business/HotelFinder.Business.csproj",
+      "packagesPath": "/Users/omerokumus/.nuget/packages/",
+      "outputPath": "/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Business/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/omerokumus/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.DataAccess/HotelFinder.DataAccess.csproj": {
+              "projectPath": "/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.DataAccess/HotelFinder.DataAccess.csproj"
+            },
+            "/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Entities/HotelFinder.Entities.csproj": {
+              "projectPath": "/Users/omerokumus/WorkSpace/DotNetCore/HotelFinder/HotelFinder.Entities/HotelFinder.Entities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
