@@ -23,9 +23,9 @@ namespace HotelFinder.API.Controllers
         }
 
 
-        public IActionResult Hotels()
+        public async Task<IActionResult> Hotels()
         {
-            var hotels =  _hotelService.GetAllHotels();
+            var hotels = await _hotelService.GetAllHotels();
             return Ok(hotels); // 200 + data
         }
 

@@ -25,9 +25,9 @@ namespace HotelFinder.Business.Concrete
             _hotelRepository.DeleteHotel(id);
         }
 
-        public List<Hotel> GetAllHotels()
+        public async Task<List<Hotel>> GetAllHotels()
         {
-            return _hotelRepository.GetAllHotels();
+            return await _hotelRepository.GetAllHotels();
         }
 
         public Hotel GetHotelById(int id)

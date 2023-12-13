@@ -26,7 +26,7 @@ namespace HotelFinder.DataAccess.Concrete
                 throw new Exception("Hotel Not Found");
         }
 
-        public List<Hotel> GetAllHotels()
+        public async Task<List<Hotel>> GetAllHotels()
         {
             return dbContext.hotels;
         }

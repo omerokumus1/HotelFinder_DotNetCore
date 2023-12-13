@@ -5,7 +5,7 @@ namespace HotelFinder.DataAccess.Abstract
 {
 	public interface IHotelRepository
 	{
-        List<Hotel> GetAllHotels();
+        Task<List<Hotel>> GetAllHotels();
 
         Hotel GetHotelById(int id);
 
